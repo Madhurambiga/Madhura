@@ -8,6 +8,7 @@ Embedded Systems Trainer and IoT Developer.
 - STM32
 - IoT
 - Python
+- RTOS
 
 ## Projects
 - ESP32 + DHT22 + ThingSpeak
